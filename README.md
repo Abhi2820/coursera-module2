@@ -11,3 +11,10 @@ This is only for practicing web development
 
 
 ![image](https://user-images.githubusercontent.com/103364544/196760936-287a7f38-de97-4748-a4d6-c586828bd4e0.png)
+
+## Tablet view
+
+
+
+
+![image](https://user-images.githubusercontent.com/103364544/196761621-3c35604c-d4d4-4818-9e9f-b9e1f9ab6763.png)
